@@ -1,0 +1,19 @@
+
+TY  - JOUR
+AU  - Smith, Lisa Catherine
+AU  - Haddad, Lawrence
+TI  - How important is improving food availability for reducing child malnutrition in developing countries?
+JO  - Agricultural Economics
+VL  - 26
+IS  - 3
+SN  - 0169-5150
+UR  - https://doi.org/10.1111/j.1574-0862.2001.tb00063.x
+DO  - https://doi.org/10.1111/j.1574-0862.2001.tb00063.x
+SP  - 191
+EP  - 204
+KW  - National food availability
+KW  - Child malnutrition
+KW  - Nutrition policy
+PY  - 2001
+AB  - Abstract Do increases in the food supply per person in a country, i.e., national food availability, contribute substantially to reductions in malnutrition among its children? This paper sets out to answer this controversial question using panel data from 63 developing countries over 1970?1996. This paper gives evidence in support of a statistically significant and strong positive impact of national food availability on child nutrition, finding that increased food supplies have resulted in significant reductions in malnutrition since the 1970s despite population increases over the period. However, per-capita food supplies have a declining marginal impact: their effect is quite strong for countries with very low food availability (e.g., most countries in sub-Saharan Africa and South Asia), but weak or non-existent for those with high levels (e.g., most countries in the Near East and North Africa). Further, non-food factors, such as women's education and status and the quality of health environments, are also important determinants of children's nutritional status. Depending on the state of food availability in any particular geographic area and relative costs, these factors may merit greater priority in policies to reduce malnutrition.
+ER  - 
